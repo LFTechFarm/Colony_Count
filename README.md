@@ -23,8 +23,6 @@ This inference workflow helps visualize how object detection can be applied in m
 Place your input images in the images/ folder.
 Run inference with the YOLOv8 model (pretrained weights).
 
-View the results in the runs/detect/predict/ folder — colony counts are displayed directly on the images.
-
 ## 🔜 Next Steps
 
 The current implementation performs well for medium and large colonies, but struggles with small & dense colony detection.
