@@ -1,4 +1,6 @@
 🧫 Colony Count Inference with YOLOv8
+
+
 📌 Purpose
 
 This project demonstrates the use of YOLOv8 for automated detection and counting of bacterial colonies on petri dish images.
