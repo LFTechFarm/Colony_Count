@@ -5,6 +5,8 @@
 This project demonstrates the use of YOLOv8 for automated detection and counting of bacterial colonies on petri dish images.
 The goal is to provide a fast, accurate, and reproducible alternative to manual counting, which is often slow and prone to error.
 
+<img width="1481" height="658" alt="output3" src="https://github.com/user-attachments/assets/eedab8b4-9386-4ffa-a386-82717b6ce74e" />
+
 🖼️ How It Works
 
 Input: Petri dish image
